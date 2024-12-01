@@ -5,7 +5,43 @@ theme = 'smol'
 publishDir = 'docs'
 
 [params]
-    email = "bas.buller@gmail.com"
-    twitter = "https://x.com/BasBuller"
-    linkedin = "https://www.linkedin.com/in/basbuller/"
+    dateFmt = "02.01.2006 15:04"
+
+# Header
+[menu]
+  [[menu.main]]
+        identifier = "posts"
+        name = "Posts"
+        url = "/posts/"
+        weight = 1
+
+  [[menu.main]]
+        name = "About"
+        url = "/about/"
+        weight = 2
+
+  [[menu.main]]
+        name = "Quotes I like"
+        url = "/quotes/"
+        weight = 3
+
+# Footer
+  [[menu.footer]]
+        name = "bas[dot]buller[at]gmail[dot]com"
+        weight = 1
+
+  [[menu.footer]]
+        name = "X"
+        url = "https://x.com/BasBuller"
+        weight = 2
+
+  [[menu.footer]]
+        name = "Github"
+        url = "https://github.com/BasBuller"
+        weight = 3
+
+  [[menu.footer]]
+        name = "LI"
+        url = "https://www.linkedin.com/in/basbuller/"
+        weight = 4
 

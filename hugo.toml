@@ -1,5 +1,11 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://basbuller.com/'
 languageCode = 'en-us'
 title = 'Bas Buller'
-theme = 'ananke'
+theme = 'smol'
 publishDir = 'docs'
+
+[params]
+    email = "bas.buller@gmail.com"
+    twitter = "https://x.com/BasBuller"
+    linkedin = "https://www.linkedin.com/in/basbuller/"
+

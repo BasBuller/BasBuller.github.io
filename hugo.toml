@@ -21,6 +21,7 @@ publishDir = 'docs'
         weight = 2
 
   [[menu.main]]
+        identifier = "quotes"
         name = "Quotes I like"
         url = "/quotes/"
         weight = 3

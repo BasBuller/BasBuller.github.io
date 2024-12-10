@@ -1,6 +1,6 @@
 +++
 date = '2024-12-01T19:14:58+01:00'
-draft = true
+draft = false
 title = 'Economics of Information Exchange'
 +++
 

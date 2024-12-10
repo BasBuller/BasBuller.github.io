@@ -1,4 +1,4 @@
-baseURL = 'https://basbuller.com/'
+baseURL = 'basbuller.github.io'
 languageCode = 'en-us'
 title = 'Bas Buller'
 theme = 'smol'

@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Bas Buller</title>
-    <link>http://localhost:1313/</link>
+    <link>https://basbuller.com/</link>
     <description>Recent content on Bas Buller</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 01 Dec 2024 19:14:58 +0100</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://basbuller.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Economics of Information Exchange</title>
-      <link>http://localhost:1313/posts/economics-of-information-exchange/</link>
+      <link>https://basbuller.com/posts/economics-of-information-exchange/</link>
       <pubDate>Sun, 01 Dec 2024 19:14:58 +0100</pubDate>
-      <guid>http://localhost:1313/posts/economics-of-information-exchange/</guid>
+      <guid>https://basbuller.com/posts/economics-of-information-exchange/</guid>
       <description>&lt;p&gt;Remaining economically relevant in the digital age requires accelerating how fast you create and communicate new information.&lt;/p&gt;</description>
     </item>
     <item>
       <title>About</title>
-      <link>http://localhost:1313/about/</link>
+      <link>https://basbuller.com/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/about/</guid>
+      <guid>https://basbuller.com/about/</guid>
       <description>&lt;p&gt;I get pretty excited about everything computers. Making everyone smarter and more creative while fighting complexity at &lt;a href=&#34;eschertink.com&#34;&gt;escherthink.com&lt;/a&gt;. You&amp;rsquo;ll probably find me thinking about some new idea or topic that preferably is not too mainstream.&lt;/p&gt;&#xA;&lt;p&gt;With this website I am creating my own corner of the internet. Modern social media is pretty shit tbh, and making a website has never been easier. So instead of building my digital home on ground I would be renting I am building it on land I do own. I recommend you do the same, also because it is actually quite fun.&lt;/p&gt;</description>
     </item>
   </channel>

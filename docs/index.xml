@@ -6,8 +6,15 @@
     <description>Recent content on Bas Buller</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 01 Dec 2024 19:14:58 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 01 Dec 2024 21:58:03 +0100</lastBuildDate>
     <atom:link href="basbuller.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Quotes</title>
+      <link>basbuller.github.io/quotes/</link>
+      <pubDate>Sun, 01 Dec 2024 21:58:03 +0100</pubDate>
+      <guid>basbuller.github.io/quotes/</guid>
+      <description>&lt;h2 id=&#34;edsger-dijkstra&#34;&gt;Edsger Dijkstra&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Are you quite sure that all those bells and whistles, all those wonderful facilities of your so-called &amp;ldquo;powerful&amp;rdquo; programming languages belong to the solution set rather than to the problem set? - 1976&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
     <item>
       <title>Economics of Information Exchange</title>
       <link>basbuller.github.io/posts/economics-of-information-exchange/</link>

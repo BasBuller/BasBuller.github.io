@@ -3,6 +3,7 @@ languageCode = 'en-us'
 title = 'Bas Buller'
 theme = 'smol'
 publishDir = 'docs'
+googleAnalytics='G-E6BNYEL6K0'
 
 [params]
     dateFmt = "02.01.2006 15:04"

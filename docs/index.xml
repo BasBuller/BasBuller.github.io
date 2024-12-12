@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Bas Buller</title>
-    <link>basbuller.github.io/</link>
+    <link>https://basbuller.github.io/</link>
     <description>Recent content on Bas Buller</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 01 Dec 2024 21:58:03 +0100</lastBuildDate>
-    <atom:link href="basbuller.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://basbuller.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Quotes</title>
-      <link>basbuller.github.io/quotes/</link>
+      <link>https://basbuller.github.io/quotes/</link>
       <pubDate>Sun, 01 Dec 2024 21:58:03 +0100</pubDate>
-      <guid>basbuller.github.io/quotes/</guid>
+      <guid>https://basbuller.github.io/quotes/</guid>
       <description>&lt;h2 id=&#34;edsger-dijkstra&#34;&gt;Edsger Dijkstra&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Are you quite sure that all those bells and whistles, all those wonderful facilities of your so-called &amp;ldquo;powerful&amp;rdquo; programming languages belong to the solution set rather than to the problem set? - 1976&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Economics of Information Exchange</title>
-      <link>basbuller.github.io/posts/economics-of-information-exchange/</link>
+      <link>https://basbuller.github.io/posts/economics-of-information-exchange/</link>
       <pubDate>Sun, 01 Dec 2024 19:14:58 +0100</pubDate>
-      <guid>basbuller.github.io/posts/economics-of-information-exchange/</guid>
+      <guid>https://basbuller.github.io/posts/economics-of-information-exchange/</guid>
       <description>&lt;p&gt;Remaining economically relevant in the digital age requires accelerating how fast you create and communicate new information.&lt;/p&gt;</description>
     </item>
     <item>
       <title>About</title>
-      <link>basbuller.github.io/about/</link>
+      <link>https://basbuller.github.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>basbuller.github.io/about/</guid>
+      <guid>https://basbuller.github.io/about/</guid>
       <description>&lt;p&gt;I get pretty excited about everything computers. Making everyone smarter and more creative while fighting complexity at &lt;a href=&#34;eschertink.com&#34;&gt;escherthink.com&lt;/a&gt;. You&amp;rsquo;ll probably find me thinking about some new idea or topic that preferably is not too mainstream.&lt;/p&gt;&#xA;&lt;p&gt;With this website I am creating my own corner of the internet. Modern social media is pretty shit tbh, and making a website has never been easier. So instead of building my digital home on ground I would be renting I am building it on land I do own. I recommend you do the same, also because it is actually quite fun.&lt;/p&gt;</description>
     </item>
   </channel>

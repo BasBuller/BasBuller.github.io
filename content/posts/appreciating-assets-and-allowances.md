@@ -5,12 +5,8 @@ slug: 2024-12-13-appreciating-assets-and-allowances
 type: posts
 draft: true
 categories:
-  - default
 tags:
-  - default
 ---
-
-# Giving allowances sucks and giving an appreciating asset is the moral thing to do
 
 An appreciating asset provides an opportunity of sustaining yourself. An allowance makes you dependent on the provider, locking you into a subordinate position.
 

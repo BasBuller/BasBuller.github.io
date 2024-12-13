@@ -1,8 +1,12 @@
-+++
-date = '2024-12-01T19:14:58+01:00'
-draft = false
-title = 'Economics of Information Exchange'
-+++
+---
+title: 'Economics of Information Exchange'
+date: '2024-12-01T19:14:58+01:00'
+slug: 2024-12-01-economics-of-information-exchange
+type: posts
+draft: false
+categories:
+tags:
+---
 
 Remaining economically relevant in the digital age requires accelerating how fast you create and communicate new information.
 

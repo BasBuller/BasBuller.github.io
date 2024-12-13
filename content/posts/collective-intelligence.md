@@ -4,6 +4,8 @@ date: 2024-12-01T20:38:47+01:00
 slug: 2024-12-01-collective-intelligence
 type: posts
 draft: true
+categories:
+tags:
 ---
 
 Better collaboration follows from communicating more and with precision. So let's increase the rate of exchange of information and our ability to interpret new information.
